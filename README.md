@@ -1,5 +1,5 @@
 # <img width="70" height="40" alt="Screenshot_20260624-144059" src="https://github.com/user-attachments/assets/686f9fb4-3587-46e4-9210-3f76cef68706" /> Car Sales Data Analysis Dashboard Using Microsoft Excel
-## Table of Content
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Tools](#tools)
